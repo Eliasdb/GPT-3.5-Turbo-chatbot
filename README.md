@@ -2,6 +2,7 @@
 
 
 ## About
+A simple chatbot with GPT integrated. Made out of curiosity for the new AI tech and to practice connecting to the API.
 
 ## Used tech
 - Chat UI Kit React from Chatscope
